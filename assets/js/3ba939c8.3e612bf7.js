@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[25883],{2772:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"Outdoor","slug":"/category/outdoor","permalink":"/docs/category/outdoor","sidebar":"outdoorSidebar","navigation":{"next":{"title":"Outdoor Fitness","permalink":"/docs/outdoors/Escape-the-Gym"}}}}')}}]);
